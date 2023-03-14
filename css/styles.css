@@ -1,3 +1,18 @@
+
+@font-face {
+  font-family: "BootsAndSpurs";
+  src: url(fonts/BootsAndSpurs.ttf) format('ttf')
+}
+@font-face {
+  font-family: "Roboto";
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+}
+h1, h2 {
+  font-family: "BootsAndSpurs";
+}
+p {
+  font-family: "Roboto", arial;
+}
 header,
 footer {
   background-color: #202020;
